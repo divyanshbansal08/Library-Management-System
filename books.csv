@@ -1,0 +1,11 @@
+id,title,author,isbn,publisher,year,status
+101,Clean Code,Robert Martin,978-0132350884,Prentice Hall,2008,Available
+102,Design Patterns,Gamma et al.,978-0201633610,Addison-Wesley,1994,Available
+103,The C++ Programming Language,Bjarne Stroustrup,978-0321563842,Addison-Wesley,2013,Available
+104,Effective Modern C++,Scott Meyers,978-1491903995,O'Reilly,2014,Available
+105,Refactoring,Martin Fowler,978-0134757599,Addison-Wesley,2018,Available
+106,Code Complete,Steve McConnell,978-0735619678,Microsoft Press,2004,Available
+107,The Pragmatic Programmer,Andrew Hunt,978-0201616224,Addison-Wesley,1999,Available
+108,Introduction to Algorithms,Thomas Cormen,978-0262033848,MIT Press,2009,Available
+109,Structure and Interpretation of Computer Programs,Gerald Sussman,978-0262510875,MIT Press,1996,Available
+110,Artificial Intelligence: A Modern Approach,Stuart Russell,978-0136042594,Prentice Hall,2010,Available
