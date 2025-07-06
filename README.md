@@ -1,3 +1,5 @@
+LIBRARY MANANGEMENT SYSTEM
+
 The assignment implements a library management system in C++ using object oriented programming paradigms. The code is present in main.cpp. There are 3 kinds of users and each of them have different functionalities and specifications. They are outlined in the Problem Statement. All functionalities of the statement have been implemented acccordingly. There are 2 csv files which serve as databases for the users and books and a new csv file is generated for every user that borrow's 1 or more books.
 
 users.csv stores [userId,name,role]. The system automatically grantes required access based on the userId.
